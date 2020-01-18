@@ -31,18 +31,20 @@ Escape the crush of the market and check out the bookstores, knickknack shops, a
 One of my favorite spots in Seattle I could (and have) watched the goings on at the locks for hours, even in the rain.
 
 ### Golden Gardens Bonfires
+The city allows bonfires on the beach at Golden Gardens as long as they are contained in a fire pit. On warm weekend nights the beach fills up with people hanging, roasting smores, etc. Beware the roaming police officers: 80% are super nice and just trying to keep people safe, 20% are assholes who will try to bust you for public drinking.
 
 ## Not Tried
-321 Battle
-Green Lake Pitch and Putt
-Schmitz preserve park (old growth forest)
-Banana Republic Coliseum Theater
-Burke Museum
+### 321 Battle
+### Green Lake Pitch and Putt
+### Schmitz preserve park (old growth forest)
+### Banana Republic Coliseum Theater
+### Burke Museum
 
 
 ## Restaurants
 ## Tried
 ### Joule
+Korean small plates. Great cocktails and good beer selection too.
 ### Ba Bar
 Really excellent asian food. I especially like the soups.
 ### Xian Noodles
@@ -54,10 +56,10 @@ If you go to one restaurant in Seattle, go here. Delicious handmade pasta. Only 
 
 ## Not Tried
 ### Meskel (Ethiopian)
-### Jad Garden (Dim Sum)
+### Jade Garden (Dim Sum)
 ### How to Cook a Wolf (New American)
 ### Cafe Presse (French)
-### Il Nido
+### Il Nido (Noodles
 
 ## Drinks
 ## Tried
@@ -75,13 +77,15 @@ Barcade in Fremont
 ### Liberty
 ### Mountaineering Club
 ### Smith Tower Bar
-Petit Soif
-La Dive
+### Petit Soif (natural wine)
+### La Dive (natural wine)
 
 
 ## Cafes
 ### Sea Wolf
 Amazing bread bakery with good baguettes and savory pastries
+### Milstead and Co
+Nice place to get some work done on a lazy Sunday. Fills up but can usually find a seat.
 
 ## Music
 ## Tried
@@ -89,16 +93,20 @@ Amazing bread bakery with good baguettes and savory pastries
 Excellent live music venue in Ballard. Cheap, good beer, friendly atmosphere. Open mic every Sunday night is a treat.
 
 ## Not Tried
-Tractor Tavern
-Sunset Tavern
+### (natural wine)Tractor Tavern
+### Sunset Tavern
 
 
 ## Beer
 ### Stoup German Pilsner
 I really like pilsners, except when they remind me of what Budweiser tastes like. That's to say, I like ___ pilsners. This one fits the bill and is probably my favorite light beer in Seattle.
-### Stoup NW Red
+
+### Elysian Dragonstooth Stout
+Creamy and flavorful. Good fro dark, cold Seattle nights.
+
 ### Populuxe Robust Porter
 Excellent porter with a smooth mouthfeel. Not watery like a lot of porters.
+
 ### Fremont Brexit
 A really good British pub ale. Hard to find these in the states. Limited release.
 
@@ -108,9 +116,9 @@ A really good British pub ale. Hard to find these in the states. Limited release
 The inauspiciously named Lake 22 is a relatively short and close hike that ends at a really beautiful lake.
 
 ## Not Tried
-Rattlesnake Ledge
-St. Helens lava caves
-San Juan Islands
+### Rattlesnake Ledge
+### St. Helens lava caves
+### San Juan Islands
 
 ## Bookstores
 Seattle is said to have the highest bookstores per capita in the US. I believe it.
