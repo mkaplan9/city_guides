@@ -85,6 +85,10 @@ A really good British pub ale. Hard to find these in the states. Limited release
 ## Hikes  
 ### Lake 22  
 The inauspiciously named Lake 22 is a relatively short and close hike that ends at a really beautiful lake.  
+### Hoh Rainforest to Blue Glacier
+Jimmy and I did this as a 3 night hike in summer 2019 and had a blast. You go through old growth rainforest along a beautiful stream, then climb a few thousand feet up to Blue Glacier and back.
+### Rachel Lake Trail
+DId this one right after a snowstorm and was treated to a true winter wonderland at the top. Some nice waterfalls on the way up too.
   
   
 ## Bookstores  
