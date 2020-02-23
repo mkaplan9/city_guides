@@ -25,26 +25,12 @@ First Wednesdays
 Free
 A bunch of people getting together to read in silence in a classy setting. No talking, but there is usually someone playing the piano. *Get there at least 20 minutes early*
 
-## Other
-### Pike Place Lower Levels
-Escape the crush of the market and check out the bookstores, knickknack shops, and galleries of the lower level.
-
-### Ballard Locks
-One of my favorite spots in Seattle I could (and have) watched the goings on at the locks for hours, even in the rain.
-
-### Golden Gardens Bonfires
-The city allows bonfires on the beach at Golden Gardens as long as they are contained in a fire pit. On warm weekend nights the beach fills up with people hanging, roasting smores, etc. Beware the roaming police officers: 80% are super nice and just trying to keep people safe, 20% are assholes who will try to bust you for public drinking.
-
-## Not Tried
 ### 321 Battle
-### Green Lake Pitch and Putt
-### Schmitz preserve park (old growth forest)
-### Banana Republic Coliseum Theater
-### Burke Museum
-
+Every other Friday
+~$20
+Amateur WWE style wrestling.
 
 ## Restaurants
-## Tried
 ### Joule
 Korean small plates. Great cocktails and good beer selection too.
 ### Ba Bar
@@ -56,31 +42,21 @@ Best tacos in Seattle hands down. Go to the original one in Capital Hill if you 
 ### Il Corvo
 If you go to one restaurant in Seattle, go here. Delicious handmade pasta. Only open for lunch, menu changes daily. I recommend getting one of each of the three pastas so you can try them all. *Opens at 11am, must get there early (10:40am recommended) since the line gets ridiculous*
 
-## Not Tried
-### Meskel (Ethiopian)
-### Jade Garden (Dim Sum)
-### How to Cook a Wolf (New American)
-### Cafe Presse (French)
-### Il Nido (Noodles
-
 ## Drinks
-## Tried
 ### Belmont
+Feels like a high class cocktail lounge.
 ### Fremont Brewing
 Nice outdoor beer garden and low key vibes. A neighborhood institution. Can get crowded during peak times.
 ### Joule
+Korean fusion small plates
 ### Espresso Vivace
 I don't really drink coffee but I make an exception for Espresso Vivace. Their coffee is amazing. Credited with popularizing latte art.
 ### Rachel's Ginger Beer
 For some reason Ari and I love this place. Multiple locations.
 ### Add A Ball
 Barcade in Fremont
-## Not Tried
-### Liberty
-### Mountaineering Club
-### Smith Tower Bar
-### Petit Soif (natural wine)
-### La Dive (natural wine)
+### Petite Soif
+Natural wine bar in Beacon Hill.
 
 
 ## Cafes
@@ -89,15 +65,9 @@ Amazing bread bakery with good baguettes and savory pastries
 ### Milstead and Co
 Nice place to get some work done on a lazy Sunday. Fills up but can usually find a seat.
 
-## Music
-## Tried
+## Live Music
 ### Conor Byrne
 Excellent live music venue in Ballard. Cheap, good beer, friendly atmosphere. Open mic every Sunday night is a treat.
-
-## Not Tried
-### (natural wine)Tractor Tavern
-### Sunset Tavern
-
 
 ## Beer
 ### Stoup German Pilsner
@@ -113,14 +83,9 @@ Excellent porter with a smooth mouthfeel. Not watery like a lot of porters.
 A really good British pub ale. Hard to find these in the states. Limited release.
 
 ## Hikes
-## Tried
 ### Lake 22
 The inauspiciously named Lake 22 is a relatively short and close hike that ends at a really beautiful lake.
 
-## Not Tried
-### Rattlesnake Ledge
-### St. Helens lava caves
-### San Juan Islands
 
 ## Bookstores
 Seattle is said to have the highest bookstores per capita in the US. I believe it.
@@ -133,3 +98,34 @@ Great fiction and sci-fi offerings. Watch out for the many cats that roam the st
 
 ### Bookstores under Pike Place Market
 The lower levels of Pike Place are host to several used bookstores that are fun to browse.
+
+## Other
+### Pike Place Lower Levels
+Escape the crush of the market and check out the bookstores, knickknack shops, and galleries of the lower level.
+
+### Ballard Locks
+One of my favorite spots in Seattle I could (and have) watched the goings on at the locks for hours, even in the rain.
+
+### Golden Gardens Bonfires
+The city allows bonfires on the beach at Golden Gardens as long as they are contained in a fire pit. On warm weekend nights the beach fills up with people hanging, roasting smores, etc. Beware the roaming police officers: 80% are super nice and just trying to keep people safe, 20% will try to bust you for public drinking.
+
+
+
+## Not Tried
+### Green Lake Pitch and Putt
+### Schmitz preserve park (old growth forest)
+### Banana Republic Coliseum Theater
+### Burke Museum
+
+
+## Hikes to try
+### Rattlesnake Ledge
+### St. Helens lava caves
+### San Juan Islands
+
+## Restaurants to try
+### Meskel (Ethiopian)
+### Jade Garden (Dim Sum)
+### How to Cook a Wolf (New American)
+### Cafe Presse (French)
+### Il Nido (Noodles
