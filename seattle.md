@@ -41,6 +41,10 @@ Cheap eats in U District.
 Best tacos in Seattle hands down. Go to the original one in Capital Hill if you can. Finding it can be tricky: it's on the second floor of a shady indoor area. The house taco is what I usually get, though the baby burritos and mulitas are also really good.  
 ### Il Corvo  
 If you go to one restaurant in Seattle, go here. Delicious handmade pasta. Only open for lunch, menu changes daily. I recommend getting one of each of the three pastas so you can try them all. *Opens at 11am, must get there early (10:40am recommended) since the line gets ridiculous*  
+### Frelard Pizza
+Nice neighborhood pizza place with upscale slices.
+### Kamonegi
+Soba noodle cafe, high quality japanese food. Great atmosphere as well.
   
 ## Drinks  
 ### Belmont  
@@ -64,6 +68,8 @@ Natural wine bar in Beacon Hill.
 Amazing bread bakery with good baguettes and savory pastries  
 ### Milstead and Co  
 Nice place to get some work done on a lazy Sunday. Fills up but can usually find a seat.  
+### Miir
+Airy cafe with great coffee. Similar to Milstead.
   
 ## Live Music  
 ### Conor Byrne  
@@ -88,7 +94,9 @@ The inauspiciously named Lake 22 is a relatively short and close hike that ends 
 ### Hoh Rainforest to Blue Glacier
 Jimmy and I did this as a 3 night hike in summer 2019 and had a blast. You go through old growth rainforest along a beautiful stream, then climb a few thousand feet up to Blue Glacier and back.
 ### Rachel Lake Trail
-DId this one right after a snowstorm and was treated to a true winter wonderland at the top. Some nice waterfalls on the way up too.
+Did this one right after a snowstorm and was treated to a true winter wonderland at the top. Some nice waterfalls on the way up too.
+### Hidden Lake Lookout
+Amazing views across the valley on the way up, and more amazing views from the old fire lookout at the top. Note that the last ~1 mile up to the trailhead is pretty rugged and one part is steep enough to be tough in a sedan.
   
   
 ## Bookstores  
@@ -111,12 +119,14 @@ Escape the crush of the market and check out the bookstores, knickknack shops, a
 One of my favorite spots in Seattle I could (and have) watched the goings on at the locks for hours, even in the rain.  
   
 ### Golden Gardens Bonfires  
-The city allows bonfires on the beach at Golden Gardens as long as they are contained in a fire pit. On warm weekend nights the beach fills up with people hanging, roasting smores, etc. Beware the roaming police officers: 80% are super nice and just trying to keep people safe, 20% will try to bust you for public drinking.  
+The city allows bonfires on the beach at Golden Gardens as long as they are contained in a fire pit. On warm weekend nights the beach fills up with people hanging, roasting smores, etc. Beware the roaming police officers: 80% are super nice and just trying to keep people safe, 20% will try to bust you for public drinking. 
+
+### Green Lake Pitch and Putt  
+Very fun pitch and putt (short golf) course. Cheap and only 9 holes so you're not committing to a whole day. Open March thru October.
   
   
   
 ## Not Tried  
-### Green Lake Pitch and Putt  
 ### Schmitz preserve park (old growth forest)  
 ### Banana Republic Coliseum Theater  
 ### Burke Museum  
