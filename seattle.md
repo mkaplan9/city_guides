@@ -87,6 +87,9 @@ Excellent porter with a smooth mouthfeel. Not watery like a lot of porters.
   
 ### Fremont Brexit  
 A really good British pub ale. Hard to find these in the states. Limited release.  
+
+### Cloudburst Totally Oatally Oatmeal Stout
+Smooth and good
   
 ## Hikes  
 ### Lake 22  
