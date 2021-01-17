@@ -39,8 +39,8 @@ Really excellent asian food. I especially like the soups.
 Cheap eats in U District.  
 ### Tacos Chukis  
 Best tacos in Seattle hands down. Go to the original one in Capital Hill if you can. Finding it can be tricky: it's on the second floor of a shady indoor area. The house taco is what I usually get, though the baby burritos and mulitas are also really good.  
-~~### Il Corvo  
-If you go to one restaurant in Seattle, go here. Delicious handmade pasta. Only open for lunch, menu changes daily. I recommend getting one of each of the three pastas so you can try them all. *Opens at 11am, must get there early (10:40am recommended) since the line gets ridiculous*~~  
+### ~~Il Corvo~~  
+~~If you go to one restaurant in Seattle, go here. Delicious handmade pasta. Only open for lunch, menu changes daily. I recommend getting one of each of the three pastas so you can try them all. *Opens at 11am, must get there early (10:40am recommended) since the line gets ridiculous*~~  
 ### Frelard Pizza
 Nice neighborhood pizza place with upscale slices.
 ### Kamonegi
