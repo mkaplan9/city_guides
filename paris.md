@@ -1,11 +1,19 @@
 # Paris  
   
 ## Cultural
-### Catacombs  
+**Catacombs**  
 Underground tour
 
+**L'Orangerie**
+
 ## Events
-### Roland Garros (French Open)
+**Roland Garros (French Open)**
   
 ## Restos/Bars
-### Le Comptoir General
+**Le Comptoir General**  
+African bar
+
+## Other
+**Rue Mouffetard outdoor market**
+
+**Le Marais**
