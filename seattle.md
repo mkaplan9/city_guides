@@ -35,8 +35,6 @@ Amateur WWE style wrestling.
 Korean small plates. Great cocktails and good beer selection too.  
 ### Ba Bar  
 Really excellent asian food. I especially like the soups.  
-### Xian Noodles  
-Cheap eats in U District.  
 ### Tacos Chukis  
 Best tacos in Seattle hands down. Go to the original one in Capital Hill if you can. Finding it can be tricky: it's on the second floor of a shady indoor area. The house taco is what I usually get, though the baby burritos and mulitas are also really good.  
 ### ~~Il Corvo~~  
@@ -47,6 +45,8 @@ Nice neighborhood pizza place with upscale slices.
 Soba noodle cafe, high quality japanese food. Great atmosphere as well.
 ### Schmaltzy's
 Deli with an amazing sandwich that uses latkes in place of bread.
+### Spinasse
+Fresh pasta
   
 ## Drinks  
 ### Belmont  
@@ -128,7 +128,7 @@ The city allows bonfires on the beach at Golden Gardens as long as they are cont
 
 ### Green Lake Pitch and Putt  
 Very fun pitch and putt (short golf) course. Cheap and only 9 holes so you're not committing to a whole day. Open March thru October.
-  
+
   
   
 ## Not Tried  
@@ -139,6 +139,9 @@ Very fun pitch and putt (short golf) course. Cheap and only 9 holes so you're no
 ### Comedy Underground
 ### Dryft concerts
 https://www.westcoasttraveller.com/youre-it-play-bike-tag-to-explore-your-city/
+### Go clam digging
+https://wdfw.wa.gov/places-to-go/shellfish-beaches
+### Be a trail angel
 
   
   
@@ -148,7 +151,6 @@ https://www.westcoasttraveller.com/youre-it-play-bike-tag-to-explore-your-city/
 ### San Juan Islands  
   
 ## Restaurants to try  
-### Meskel (Ethiopian)  
 ### Jade Garden (Dim Sum)  
 ### How to Cook a Wolf (New American)  
 ### Cafe Presse (French)  
