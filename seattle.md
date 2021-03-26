@@ -154,4 +154,5 @@ https://wdfw.wa.gov/places-to-go/shellfish-beaches
 ### Jade Garden (Dim Sum)  
 ### How to Cook a Wolf (New American)  
 ### Cafe Presse (French)  
-### Il Nido (Noodles  
+### Il Nido (Noodles)
+### Herbfarm
