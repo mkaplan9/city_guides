@@ -79,7 +79,7 @@ Excellent live music venue in Ballard. Cheap, good beer, friendly atmosphere. Op
   
 ## Beer  
 ### Stoup German Pilsner  
-I really like pilsners, except when they remind me of what Budweiser tastes like. That's to say, I like ___ pilsners. This one fits the bill and is probably my favorite light beer in Seattle.  
+I really like pilsners, except when they remind me of what Budweiser tastes like. This one fits the bill and is probably my favorite light beer in Seattle.  
   
 ### Elysian Dragonstooth Stout  
 Creamy and flavorful. Good fro dark, cold Seattle nights.  
@@ -137,11 +137,10 @@ Very fun pitch and putt (short golf) course. Cheap and only 9 holes so you're no
 ### Burke Museum  
 ### Theo chocolate tour
 ### Comedy Underground
-### Dryft concerts
-https://www.westcoasttraveller.com/youre-it-play-bike-tag-to-explore-your-city/
-### Go clam digging
-https://wdfw.wa.gov/places-to-go/shellfish-beaches
+### Dryft concerts https://www.westcoasttraveller.com/youre-it-play-bike-tag-to-explore-your-city/
+### Go clam digging https://wdfw.wa.gov/places-to-go/shellfish-beaches
 ### Be a trail angel
+### Vashon Sheepdog Classic
 
   
   
