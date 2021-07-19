@@ -47,6 +47,8 @@ Soba noodle cafe, high quality japanese food. Great atmosphere as well.
 Deli with an amazing sandwich that uses latkes in place of bread.
 ### Spinasse
 Fresh pasta
+### Spice Waala
+Really tasty kathi rolls
   
 ## Drinks  
 ### Belmont  
@@ -63,6 +65,8 @@ For some reason Ari and I love this place. Multiple locations.
 Barcade in Fremont  
 ### Petite Soif  
 Natural wine bar in Beacon Hill.  
+### Lucky Envelope and Stoup
+My 2 favorites in Ballard brewery district
   
   
 ## Cafes  
@@ -72,6 +76,8 @@ Amazing bread bakery with good baguettes and savory pastries
 Nice place to get some work done on a lazy Sunday. Fills up but can usually find a seat.  
 ### Miir
 Airy cafe with great coffee. Similar to Milstead.
+### Cafe Presse
+French cafe with drinks and small plates
   
 ## Live Music  
 ### Conor Byrne  
@@ -92,6 +98,9 @@ A really good British pub ale. Hard to find these in the states. Limited release
 
 ### Cloudburst Totally Oatally Oatmeal Stout
 Smooth and good
+
+### Jellyfish Slip n Slide Summer Lager
+A lager with a kick
   
 ## Hikes  
 ### Lake 22  
@@ -101,8 +110,7 @@ Jimmy and I did this as a 3 night hike in summer 2019 and had a blast. You go th
 ### Rachel Lake Trail
 Did this one right after a snowstorm and was treated to a true winter wonderland at the top. Some nice waterfalls on the way up too.
 ### Hidden Lake Lookout
-Amazing views across the valley on the way up, and more amazing views from the old fire lookout at the top. Note that the last ~1 mile up to the trailhead is pretty rugged and one part is steep enough to be tough in a sedan.
-  
+Amazing views across the valley on the way up, and more amazing views from the old fire lookout at the top. 
   
 ## Bookstores  
 Seattle is said to have the highest bookstores per capita in the US. I believe it.  
@@ -145,9 +153,7 @@ Very fun pitch and putt (short golf) course. Cheap and only 9 holes so you're no
   
   
 ## Hikes to try  
-### Rattlesnake Ledge  
 ### St. Helens lava caves  
-### San Juan Islands  
   
 ## Restaurants to try  
 ### Jade Garden (Dim Sum)  
