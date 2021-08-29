@@ -23,12 +23,17 @@ Like a more fun Zumba class. Nonstop dancing for ~80 minutes
 ### Silent Reading Party  
 First Wednesdays  
 Free  
-A bunch of people getting together to read in silence in a classy setting. No talking, but there is usually someone playing the piano. *Get there at least 20 minutes early*  
+A bunch of people getting together to read in silence in a classy setting. No talking, but there's usually someone playing the piano. *Get there at least 20 minutes early*  
   
 ### 321 Battle  
 Every other Friday  
 ~$20  
 Amateur WWE style wrestling.  
+
+### SODO Flea Market
+First Saturday of the month
+Free
+Upscale flea market and huge antique store
   
 ## Restaurants  
 ### Joule  
@@ -36,7 +41,7 @@ Korean small plates. Great cocktails and good beer selection too.
 ### Ba Bar  
 Really excellent asian food. I especially like the soups.  
 ### Tacos Chukis  
-Best tacos in Seattle hands down. Go to the original one in Capital Hill if you can. Finding it can be tricky: it's on the second floor of a shady indoor area. The house taco is what I usually get, though the baby burritos and mulitas are also really good.  
+Best tacos in Seattle hands down. Go to the original one in Capital Hill if you can. Finding it can be tricky: it's on the second floor of a shady indoor space. The house taco is what I usually get, though the baby burritos and mulitas are also really good.  
 ### ~~Il Corvo~~  
 ~~If you go to one restaurant in Seattle, go here. Delicious handmade pasta. Only open for lunch, menu changes daily. I recommend getting one of each of the three pastas so you can try them all. *Opens at 11am, must get there early (10:40am recommended) since the line gets ridiculous*~~  
 ### Frelard Pizza
@@ -48,13 +53,13 @@ Deli with an amazing sandwich that uses latkes in place of bread.
 ### Spinasse
 Fresh pasta
 ### Spice Waala
-Really tasty kathi rolls
+Really tasty kathi rolls (like an Indian burrito)
+### Calozzi's Cheesesteaks
+If you're jonesing for a cheesesteak. The owner grew up in Philly.
   
 ## Drinks  
 ### Belmont  
-Feels like a high class cocktail lounge.  
-### Fremont Brewing  
-Nice outdoor beer garden and low key vibes. A neighborhood institution. Can get crowded during peak times.  
+Feels like a high class cocktail lounge.   
 ### Joule  
 Korean fusion small plates  
 ### Espresso Vivace  
@@ -82,13 +87,20 @@ French cafe with drinks and small plates
 ## Live Music  
 ### Conor Byrne  
 Excellent live music venue in Ballard. Cheap, good beer, friendly atmosphere. Open mic every Sunday night is a treat.  
+
+## Parks
+### Madrona Beach
+Madrona Beach is one of my favorite swim spots; it has views of Rainier, the Cascades, Bellevue, and Lake Washington, plus a little beach with diving platforms.
+
+### Gasworks
+Great views of downtown, old gas refinery structure
   
 ## Beer  
 ### Stoup German Pilsner  
 I really like pilsners, except when they remind me of what Budweiser tastes like. This one fits the bill and is probably my favorite light beer in Seattle.  
   
 ### Elysian Dragonstooth Stout  
-Creamy and flavorful. Good fro dark, cold Seattle nights.  
+Creamy and flavorful. Good for cold, dark Seattle nights.  
   
 ### Populuxe Robust Porter  
 Excellent porter with a smooth mouthfeel. Not watery like a lot of porters.  
@@ -101,16 +113,25 @@ Smooth and good
 
 ### Jellyfish Slip n Slide Summer Lager
 A lager with a kick
+
+### Ravenna Brewing Guava Sour
+IMO a lot of fruit sours are *too* sour and the fruit taste doesn't come through. This one avoids that pitfall, it tastes nicely guava-y.
   
 ## Hikes  
 ### Lake 22  
-The inauspiciously named Lake 22 is a relatively short and close hike that ends at a really beautiful lake.  
+The inauspiciously named Lake 22 is a relatively short and close hike that ends at a really beautiful lake. 
+### Lake Serene
+Popular hike not too far from Seattle. Big waterfall and clear lake.  
 ### Hoh Rainforest to Blue Glacier
 Jimmy and I did this as a 3 night hike in summer 2019 and had a blast. You go through old growth rainforest along a beautiful stream, then climb a few thousand feet up to Blue Glacier and back.
 ### Rachel Lake Trail
-Did this one right after a snowstorm and was treated to a true winter wonderland at the top. Some nice waterfalls on the way up too.
+Did this one right after a snowstorm and was treated to a true winter wonderland at the top. Some nice waterfalls on the way up too. 2021 edit: also did it in the summer and was equally great.
 ### Hidden Lake Lookout
 Amazing views across the valley on the way up, and more amazing views from the old fire lookout at the top. 
+
+## Camping
+### Tuck and Robin Lakes
+
   
 ## Bookstores  
 Seattle is said to have the highest bookstores per capita in the US. I believe it.  
@@ -129,13 +150,14 @@ The lower levels of Pike Place are host to several used bookstores that are fun 
 Escape the crush of the market and check out the bookstores, knickknack shops, and galleries of the lower level.  
   
 ### Ballard Locks  
-One of my favorite spots in Seattle I could (and have) watched the goings on at the locks for hours, even in the rain.  
+One of my favorite spots in Seattle. I could (and have) watched the goings on at the locks for hours, even in the rain.  
   
 ### Golden Gardens Bonfires  
 The city allows bonfires on the beach at Golden Gardens as long as they are contained in a fire pit. On warm weekend nights the beach fills up with people hanging, roasting smores, etc. Beware the roaming police officers: 80% are super nice and just trying to keep people safe, 20% will try to bust you for public drinking. 
 
 ### Green Lake Pitch and Putt  
 Very fun pitch and putt (short golf) course. Cheap and only 9 holes so you're not committing to a whole day. Open March thru October.
+
 
   
   
@@ -149,7 +171,6 @@ Very fun pitch and putt (short golf) course. Cheap and only 9 holes so you're no
 ### Go clam digging https://wdfw.wa.gov/places-to-go/shellfish-beaches
 ### Be a trail angel
 ### Vashon Sheepdog Classic
-
   
   
 ## Hikes to try  
@@ -158,6 +179,5 @@ Very fun pitch and putt (short golf) course. Cheap and only 9 holes so you're no
 ## Restaurants to try  
 ### Jade Garden (Dim Sum)  
 ### How to Cook a Wolf (New American)  
-### Cafe Presse (French)  
 ### Il Nido (Noodles)
 ### Herbfarm
