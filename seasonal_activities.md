@@ -4,6 +4,10 @@
 # All
 - French dinner
 - Korean spa
+- Driving range
+- Disc golf
+- Work at a coffee shop
+- 
 
 # Summer
 - Farmers markets
