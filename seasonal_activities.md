@@ -7,6 +7,8 @@
 - Driving range
 - Disc golf
 - Work at a coffee shop
+- Smell walk
+- Stargazing
 - 
 
 # Summer
