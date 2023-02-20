@@ -1,8 +1,8 @@
 # San Francisco
 ## Neighborhoods
-# Japantown
+### Japantown
 Mall and pedestrian street are fun to walk around, pretty quick
-## Sunset
+### Sunset
 Would like to explore more
 
 ## Food
