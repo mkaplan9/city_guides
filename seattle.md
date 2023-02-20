@@ -72,6 +72,8 @@ Barcade in Fremont
 Natural wine bar in Beacon Hill.  
 ### Lucky Envelope and Stoup
 My 2 favorites in Ballard brewery district
+### Bathtub Gin
+Good date spot, dark and underground
   
   
 ## Cafes  
