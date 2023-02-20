@@ -48,8 +48,8 @@ Best tacos in Seattle hands down. Go to the original one in Capital Hill if you 
 Nice neighborhood pizza place with upscale slices.
 ### Kamonegi
 Soba noodle cafe, high quality japanese food. Great atmosphere as well.
-### Schmaltzy's
-Deli with an amazing sandwich that uses latkes in place of bread.
+### ~~Schmaltzy's~~
+~~Deli with an amazing sandwich that uses latkes in place of bread.~~
 ### Spinasse
 Fresh pasta
 ### Spice Waala
@@ -79,8 +79,8 @@ My 2 favorites in Ballard brewery district
 Amazing bread bakery with good baguettes and savory pastries  
 ### Milstead and Co  
 Nice place to get some work done on a lazy Sunday. Fills up but can usually find a seat.  
-### Miir
-Airy cafe with great coffee. Similar to Milstead.
+### ~~Miir~~
+~~Airy cafe with great coffee. Similar to Milstead.~~
 ### Cafe Presse
 French cafe with drinks and small plates
   
@@ -102,8 +102,8 @@ I really like pilsners, except when they remind me of what Budweiser tastes like
 ### Elysian Dragonstooth Stout  
 Creamy and flavorful. Good for cold, dark Seattle nights.  
   
-### Populuxe Robust Porter  
-Excellent porter with a smooth mouthfeel. Not watery like a lot of porters.  
+### ~~Populuxe Robust Porter~~
+~~Excellent porter with a smooth mouthfeel. Not watery like a lot of porters.~~
   
 ### Fremont Brexit  
 A really good British pub ale. Hard to find these in the states. Limited release.  
@@ -116,6 +116,9 @@ A lager with a kick
 
 ### Ravenna Brewing Guava Sour
 IMO a lot of fruit sours are *too* sour and the fruit taste doesn't come through. This one avoids that pitfall, it tastes nicely guava-y.
+
+### Holy Mountain Black Beer
+Nice dark winter beet
   
 ## Hikes  
 ### Lake 22  
@@ -132,6 +135,7 @@ Amazing views across the valley on the way up, and more amazing views from the o
 ## Camping
 ### Tuck and Robin Lakes
 ### North Coast Olympics
+### Canoeing Ross Lake
 
   
 ## Bookstores  
@@ -159,6 +163,9 @@ The city allows bonfires on the beach at Golden Gardens as long as they are cont
 ### Green Lake Pitch and Putt  
 Very fun pitch and putt (short golf) course. Cheap and only 9 holes so you're not committing to a whole day. Open March thru October.
 
+### Salmon migration at Carkeek Park
+One of the coolest things I've done in Seattle. Watch the salmon swin upstream, navigate obstacles, and lay their eggs.
+
 
   
   
@@ -182,3 +189,7 @@ Very fun pitch and putt (short golf) course. Cheap and only 9 holes so you're no
 ### How to Cook a Wolf (New American)  
 ### Il Nido (Noodles)
 ### Herbfarm
+### Off Alley
+### Altura
+### Taneda Sushi
+
